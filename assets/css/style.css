@@ -1,0 +1,24 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #212529;
+}
+
+.card-title {
+  font-weight: 300;
+  font-size: 1.1rem;
+}
+
+.card-text,
+.text-secondary,
+footer p {
+  color: #707070 !important;
+}
+
+.card-footer span:last-child {
+  font-weight: 500;
+}
+
+.card-img-top {
+  height: 220px;
+  object-fit: cover;
+}
